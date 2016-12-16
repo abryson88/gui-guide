@@ -1,0 +1,66 @@
+Resources
+
+Perhaps the single most important contributing factor to the successful graphical user interface design and integration
+is knowledge. Systems designers and integrators are encouraged to seek out training, seminars, technical articles,
+white papers, and other publications from industry organizations and trusted manufacturers. See the reference
+material and links below for additional graphical user interface design resources.
+
+Books
+Cooper, A., Reimann, R., and Cronin, D. (2014). About Face: The Essentials of Interaction Design.
+Wiley Publishing, Inc.
+Krug, S. (2014). Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability. New Riders.
+Mullet, K. and Sano D. (1994). Designing Visual Interfaces: Communication Oriented Techniques. Prentice Hall.
+Norman, D. (1988, 2002). The Design of Everyday Things. Basic Books.
+Tidwell, J. (2005). Designing Interfaces: Patterns for Effective Interaction Design. O’Reilly.
+Whelan, Bride M. (1994). Color Harmony 2: A Guide to Creative Color Combinations. Rockport Publishers.
+Wigdor, D. and Wixon, D. (2011). Brave NUI World: Designing Natural User Interfaces for Touch and Gesture. Morgan
+Kaufmann.
+
+Color Palette Resources
+websitetips.com/colortools/sitepro/
+www.gimp.org/
+msdn.microsoft.com/en-us/library/bb263947(VS.85).aspx
+www.colorschemedesigner.com
+www.colorblender.com/
+thelogocompany.net/logo-color-choices.htm
+www.degraeve.com/color-palette/
+www.colorschemer.com/online.html
+webaim.org/resources/contrastchecker/
+
+Theory
+www.joelonsoftware.com/uibook/chapters/fog0000000060.html
+www.namahn.com/resources/documents/note-IM.pdf
+www.nngroup.com/
+
+Extron Resources
+TouchLink Pro Touchpanels
+Extron TouchLink Pro touchpanels are fully-customizable touchpanels available in a variety of sizes and mounting
+options to accommodate a broad range of applications. Visit www.extron.com/touchlink for more information.
+TouchLink Design Themes
+
+TouchLink design themes include templates and resource kits. Templates are ready to use graphical user interfaces
+carefully matched to the most common AV applications. Resource kits are available to create a customized graphical
+user interface from scratch, with all the backgrounds, icons, buttons, and sounds included. For more information on
+TouchLink design themes, the templates and resource kits, visit www.extron.com/guiresources.
+
+Reference Guide to Design Themes
+The reference guide provides valuable information on Extron ready-to-use design templates and resource kits for
+TouchLink touchpanels. For more information on this guide visit www.extron.com/guiresources.
+
+Training Website
+The Extron training website at www.extron.com/training is the central resource for education and certification
+information. Here you will find program descriptions, course schedules by location, support material, and
+administrative information such as transcript verification.
+
+Below is a list of some of the programs offered:
+• Extron Control Specialist Certification
+• Extron Control Professional Certification
+• Extron Institutes for instructor-led courses
+• Customized on-site training for instruction at your facility
+• E-Training On Demand for online training
+
+Extron S3 Control Systems Support Hotline
+For direct access to “top tier” support for configurable control systems, call the S3 Control Systems Support Hotline
+at 1.800.633.9877. Our large group of dedicated applications engineers stands ready to answer all your control
+system questions and help you with system design, technical troubleshooting, configuration assistance, remote
+product or system diagnostics, repair/advance replacement services, and general product support.

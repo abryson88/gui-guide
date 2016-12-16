@@ -1,0 +1,256 @@
+Design Fundamentals
+
+Human Factors and Ergonomics
+
+When designing a user interface, place great care on crafting easy to operate controls that are both familiar and intuitive. A user rarely browses an AV control interface to see what is available. More likely, they will want to get right down to the business of the meeting or presentation, needing to accomplish their desired task without distraction or
+hesitation.
+
+The system operator is most likely to navigate using index fingers with stationary touchpanels and thumbs with mobile panels. Ergonomics play a larger role in making the interface comfortable to use. While most people can use either hand to make selections, they typically use their dominant hand. Be aware of hand dominance when designing
+layouts.
+
+Balancing Form and Function
+
+Interface designers should assume that users are not likely to be trained on the system they are asked to operate. If
+there is training, it is probably on the system the user operates regularly and not on all of the systems at a site. Users
+should be able to move from one system to another without a noticeable change in interface design. Additionally, guest presenters from outside the organization must be able to easily operate the system.
+
+An appropriate interface design limits the amount of clutter and graphical distractions in favor of functionality. While
+creative graphical elements may look pleasing in a home environment, in commercial applications these are viewed as distractions and slow the process of accomplishing a specific AV task.
+
+Building Blocks
+
+The building blocks are the fundamental tools the designer uses to create user interfaces. If used correctly, the blocks
+work together to create a harmonious and intuitive interface to provide a positive user experience. This next section of
+the guide offers guidelines to assist in the proper deployment of:
+• Buttons
+• Text and labels
+• Fonts
+• Shapes
+• Pages
+• Backgrounds
+• Images
+
+Buttons
+
+Button Affordance
+
+Buttons are the primary means of interaction between the user and the touchscreen. A button must have visual
+properties that indicate it can be pressed. It should also visually change when pressed, providing accurate feedback
+of its state.
+
+Traditional buttons employ borders, gradients, and drop shadows to make the element stand out from the interface in a three dimensional fashion. With the growing popularity of "flat" design, the way we identify buttons has changed.
+
+Instead, the focus should be placed on organization and color contrast. One way to aid users in recognizing buttons is to group buttons that have similar functions. A button can also be defined by creating a containing shape around
+the button text. Circles, squares, and rounded rectangles are the optimal choices.
+
+The most obvious buttons have a high contrasting fill color to separate them from the background, but some buttons simply have a thick border around their container to delineate them from the rest of the content. Regardless of your
+selection, ensure that a consistent approach is taken, and use high contrast and full opacity in both the text and the surrounding container. Otherwise, the user may perceive that the button is in a disabled state.
+
+Typically buttons have two states – on and off. Use different color choices on buttons to indicate unselected or selected states. Generally, the selected state draws more attention than the rest of the buttons and is a subtle way of informing the user that this function is on.
+
+Button Aspect Ratio
+
+Phi, the ratio of 1:1.62, first studied in Greece nearly 2400 years ago, is considered the Golden Ratio and is often
+referred to as the “golden rectangle.” This ratio is aesthetically pleasing and is used as the standard aspect ratio for
+buttons.
+
+Always apply the ratio of Phi when planning the button width. Wide buttons are easier to press than tall buttons and  have more horizontal area for text and/or icon labeling.
+
+Button Size
+Studies have shown that the ideal button size for touchscreens is 0.75 inches (approximately 1.9 cm) square. Applying the Phi ratio to a button that is 0.75 inches high yields a button width of 1.215 inches or 1.22 inches
+(approximately 3.1 cm).
+
+A button size of 0.75 inches x 1.22 inches (1.9 x 3.1 cm) is best suited for touchscreens of 12 inches (30.5 cm)diagonally and larger. Using this button size on smaller panels takes up too much screen space making the design
+of the panel unusable. For touchscreens smaller than 12 inches diagonally, the height of the button can be reduced to achieve Phi. Taking the button height of 0.75 inches and dividing it by 1.62 yields a height of approximately 0.45 inches (1.2 cm).
+
+GUI design tools do not allow object dimensions to be entered in inches or centimeters. Graphic tools use number of pixels as the reference for object dimensions. Display dot pitch varies from panel to panel and most manufacturers do not specify it, making it cumbersome to create the ideal button size. Follow these steps to convert the ideal button dimensions to a horizontal and vertical number of pixels.
+
+1. Find the horizontal resolution of the panel being used.
+In this example we use the Extron TLP Pro 1220TG. It has a horizontal resolution of 1280 pixels.
+2. Measure the horizontal width of the screen being used. The horizontal width of the TLP Pro 1220TG screen is
+10.25 inches (26.0 cm).
+3. Divide the horizontal pixels by the measured width: 1280 pixels / 10.25 inches = approx. 125 pixels per inch or
+dots per inch (dpi). 
+4. Multiply the pixels per inch by the dimensions of the ideal button:
+Width: 125 dpi x 0.75 inches = approx. 90 pixels.
+Height: 125 dpi x 0.45 inches = approx. 55 pixels.
+
+Button Spacing
+
+Buttons are also easier to press if there is a small amount of spacing between them. This helps minimize false
+presses, which is less frustrating. As a general rule for small buttons of 72 pixels or less, there should be at least 5 to
+10 pixels between them. Try to maintain uniform spacing both horizontally and vertically.
+
+Button Labeling
+Identify buttons by using both icons and labels whenever possible. This provides the cues to button functionality. Very
+few icons are truly universally and internationally recognized. The intended meaning of an icon may be obvious to one
+person, but may have a completely different meaning to another. Many icons have multiple meanings depending on
+the perspective of the user. Always reinforce the meaning by using a label where space permits.
+
+Button Icons and Logos
+Icons applied to buttons are quick to read and understand, provided the icon image does not appear overly complex.
+Simple icons are understood more quickly and scale better with button size changes than do three-dimensional,
+picture-like icons.
+Logos can identify the function of a button quickly and easily, as long as the logo is commonly recognized. Logos that
+are company or organizationally specific may work well for employees, but can be more challenging for visitors who
+use the system.
+
+Button Orientation
+When done correctly, button orientation enables the user to easily recognize the purpose of the buttons. If the
+orientation matches the action of the button it clearly defines its use, and so increases its affordance.
+For example when navigating left, right, up, or down, it becomes easy to recognize the purpose of the buttons if they
+are positioned in their natural orientation (the up button at the top, the left button to the left, and so forth).
+Controlling volume is another example. Seeing the volume up button positioned above the down and mute buttons is
+a natural visual cue to the purpose of the buttons.
+
+Button Chunking
+Button chunking is the application of information mapping principles to an individual control area. Each control area
+should contain no more than nine buttons in a group. A designer can break down a control area that has a large
+number of control functions by using button shapes, colors, text, and spacing.
+
+Button Keypads
+There are two standard numerical button keypads: the ten key numeric keypad and the telephone keypad.The telephone keypad is the default standard for user interface design.
+
+The ten key numeric keypad is the button layout typically used on adding machines and calculators and is the number
+pad found on the right side of computer keyboards. This numeric keypad is used for mathematics and large amounts
+of data entry in certain fields like accounting. Do not use this keypad in user interface design.
+
+The telephone keypad is the button layout based on International Telecommunications Union standard ITU-T E.161
+and the American National Standards Institute ANSI TI-703. As well as being used for telephones, this keypad is also the universal keypad layout used for number entry, and can be found on many everyday devices like ATM machines,
+navigation systems, copiers, and consumer infrared remote controls.
+
+The telephone keypad is the standard and should be used in user interface designs when a keypad is required.
+
+Text and Labels
+
+Text and labels are placed on top of or near an object or a group of objects. Their purpose is to:
+• Give a description
+• Provide instructions
+• Clarify a purpose
+
+Text and labels should never compete with each other or confuse or slow down the user. The text on a label or button
+should give a clear indication of what it represents.
+
+Use abbreviations that are commonly accepted terms, like DVR or AUX. A less common term, for example “ALC”
+(Automatic Level Control), may be understood in the AV industry, though not be commonly understood outside the
+industry.
+
+Do not hyphenate words to achieve word wrap. Hyphenated words are very difficult to read and to understand.
+
+Be consistent in your labeling of terms. Do not refer to the same thing in different ways. For example, if a document
+camera is referred to as a “Doc Cam,” refer to it as a “Doc Cam” throughout the project, and not as “Camera” or
+“Document Camera” elsewhere.
+
+Text Window Affordance
+
+A text window is used to give a description to a group of buttons or feedback to the user. One common mistake is to create a text window by placing text on a raised surface that may look like a button. This is considered false
+affordance, because the user is given the false indication that the text window can be pressed. If the object is not intended to be pressed, never make it look like a button.
+
+Uppercase and Lowercase Text
+
+When designing a user interface, uppercase and lowercase letters are preferred. This aids the user to quickly read the text and understand the function. Text in all lowercase letters takes longer to read and comprehend. Text in all uppercase letters (all caps) should be reserved for headers and major groupings only. Overuse of all uppercase text is too distracting and slows down the selection process.
+
+Action Text
+Use action text (verbs) to describe the intended function of buttons instead of statements. For example, when
+powering down a system, confirm the request with an action term rather than a simple “Yes” or “No.” The action text
+gives the user assurance that the selection is correct.
+
+Text and Label Sizes
+There should always be a visual hierarchy for label font sizes. Use larger fonts for group labels and smaller fonts for
+sublabels. If the same size font is used for all labels, then the labels visually compete for attention.
+
+Text Spacing
+Text spacing is critical. When identifying buttons that are in close proximity, be careful to move the text closer to the
+associated button. Spacing text evenly between two button groups can create confusion.
+
+Redundant Text Elimination
+A set of buttons that control a single device or that are used for a common control should always be grouped
+together. The set should share a common defining label, such as “Display Power,” with specific direction on the
+button itself. Giving each button its own detailed text is overwhelming and makes it difficult for the user to locate the
+correct button. Grouping common controls with a single label is a simple form of information mapping.
+
+Fonts
+Serif and Sans Serif Fonts
+All fonts are categorized as either serif or sans-serif:
+Serif fonts are fonts that have little “tails” (serifs) at the tips of each character. Since displays have considerably lower
+dot pitch, or pixels per inch than printed materials do, the small serif details tend to distort and become jagged with
+smaller font sizes, and are difficult to read.
+Do not use serif fonts for text in user interface design.
+Sans-serif means “without serif.” Sans-serif fonts do not have the serifs (tails), making it easier for displays with low
+dot pitch to display them without distortion, and so are easier to read.
+Only sans-serif fonts, such as Veranda®, Calibri®, Arial®, or Helvetica®, should be used for text on touchpanel
+interfaces.
+
+Font Size
+Text labels applied onto buttons can help convey the meaning of the function for the intended button. Applied correctly,
+the text should fill the button without encroaching on the border of the button. If the text does not fit, consider making
+all of the buttons in the group larger or use a smaller font.
+To ensure the text on the user interface is easy to read, choose the correct font size. A larger font is better, but do not
+let the text overlap the beveled edge of the button.
+
+Font Style and Effects
+Font style refers to regular, bold, italic, and bold italic. Extron recommends using a Sans serif, bold font.
+DO NOT USE: Any serif font style — these become distorted and difficult to read on the screen.
+Italics or bold italics — these are more difficult to read on the screen.
+Regular — this is too light and harder to read on the screen.
+Font effects are difficult to read on a user interface screen. DO NOT USE font effects such as:
+• Underlines • • Subscript • Small Caps • Script
+• • Strikethrough • Superscript • Narrow
+Symbol Fonts
+Symbol fonts are a specialized font set that provides a convenient way to add character symbols to user interfaces.
+Extron GUI Designer comes with a symbol font set called “Extron GUIC Video Conference” that provides the most
+common transport control and volume adjustment symbols. Included in the font set are several other basic symbols
+that are commonly used in audio-visual systems and can be used as an alternative to icons on buttons.
+
+Shapes
+Shapes are simple objects (for example squares, rectangles, and so forth) that can be added to any page to
+improve information mapping. They help by directing attention and providing division for the various groups of
+controls. Shapes can simply be outlines with variable edges, solid filled, or variably transparent. Be sure to maintain
+consistency with the look of the shapes within the project. Having shapes with different colors and styles on the same
+page is disruptive. 
+
+Pages
+Main Pages
+Every user interface project must have a main page. The main page is the anchor page that the user becomes familiar
+with and feels comfortable using. The main page should have critical environmental controls that should always be
+directly accessible: for example, controls such as source selection, display control, and volume adjustment. The
+system navigation should be designed so that during operation the user is never taken completely away from the
+main page. Replacing the main page with another page is called a page flip. A page flip can be intimidating and
+disorienting and should only be used when the system is powered down or when navigating from the welcome page
+to the main page.
+
+Pop-up Pages
+Pop-up pages are used to bring feedback and more controls to the user by dynamically supplementing the workflow
+of the main page. Pop-up pages help keep the main page uncluttered by providing a place for controls to be added
+only when needed. One or more areas on the main page can be reserved for pop-up pages to bring in commonly
+needed device controls or other functions.
+
+Modal Pop-up Page
+Modal pop-up pages act as speed bumps to the user, forcing the user to complete an operation or make a decision
+before the modal pop-up can be closed and they can continue back to the main page.
+Similar to pop-up pages, modal pop-up pages bring additional controls to the user. When a modal pop-up page is
+active, the main page and any active pop-up pages are covered with a translucent window and are disabled. This
+brings the user’s attention to the controls on the modal pop-up without visually leaving the main page.
+The modal pop-up page is a great tool for controls that require confirmation, such as a power down command, or for
+controls that have granularity. For example, the main page always contains the master volume control, but in a system
+that may have a number of microphones that occasionally need separate adjustments, the modal pop-up page allows
+the user to make adjustments to each individual microphone.
+Likewise, a system may have multiple lighting zones with separate presets that would otherwise clutter the main
+page. A modal pop-up page would bring up in one view all the individual lighting controls for the preset areas.
+
+Backgrounds
+The background on a touchscreen should act as a foundation on which to build a cohesively-designed interactive
+workspace. Backgrounds should consist of solid cool or neutral colors (such as black, whites, or grays), calm
+gradients, or muted textures. Backgrounds should never visually compete with the buttons or labels.
+Background images require special attention to avoid distraction or visually competing for the attention of the user.
+Reducing the saturation, opacity, and contrast are ways to mute the image. Another way to ensure the background
+image truly blends in, is to overlay a neutral theme color. This will provide a more cohesive appearance. The best
+way to test whether the background is too much of a distraction is to step back about 10 feet from the design. If it
+is difficult to distinguish the buttons from the background, adjust the interface to provide more contrast between the
+background and buttons.
+
+Images
+Images such as logos on top of a background often contain a background color, typically white. When overlaid on a
+background, this can look out of place.
+By using an image key filter within a simple graphics program, a transparent background can be created. When
+applied to the layout, the graphic looks much more professional.

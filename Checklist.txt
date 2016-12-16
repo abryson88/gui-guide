@@ -1,0 +1,35 @@
+Checklist for a Better Graphical User Interface Design
+
+Design
+q Is the GUI design refined, uncluttered, and free of distracting elements?
+q Does it have visual balance in terms of object placement, button groupings, and graphical elements?
+q Is there a consistent approach in defining the static and dynamic areas of the user interface?
+q Does all text fit within the boundaries of buttons, windows, and banners without overcrowding?
+q Are objects centered where expected, aligned to each other within groups, and consistent, page to page?
+q Are flashing or blinking elements used sparingly?
+q Have the best practices of affordance been applied, so that buttons are easily discernible from labels?
+
+Color Use and Appropriateness
+q Are the chosen colors aesthetically pleasing and suitable for the application?
+q Is the color scheme used consistently throughout all the pages of the interface?
+q Have the design and colors met the needs of users with visual impairment or color blindness?
+q Is color used only to enhance functions, and not used as the sole way to convey information?
+
+Accuracy
+q Do the symbols and icons used on buttons easily identify and appropriately reflect the button function?
+q Do the buttons work as would be expected?
+q Does button feedback correctly indicate when a button is pressed, or the function state?
+q Are all the buttons, labels, and headings labelled correctly?
+q Is the correct case and capitalization used for all button, label, and heading text?
+q Is the spelling of all static text words correct, and are abbreviations used only where space is limited?
+q Are any label names used more than once on the same page?
+q Do all pop-up and modal pop-up windows operate correctly without leaving the main page?
+
+Operation and Performance
+q Is it easy to turn on and turn off the system?
+q Is the navigation approach suitable for the intended application?
+q Is visual and aural feedback present where and when expected, and is that feedback consistent?
+q Is the interface easy to navigate and understand without much training?
+q Does it take three steps or fewer to accomplish critical functions and tasks?
+q Are there clearly understood confirmation prompts where appropriate?
+q Is the grouping of function buttons consistent among devices with similar controls?

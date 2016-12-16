@@ -1,0 +1,288 @@
+Layout Principles
+
+Consistency
+
+One of the most important design rules is consistency, and it is the rule most often broken. Extron stresses the
+importance of consistency throughout the user interface design. Consistency in colors, shapes, sizes, fonts, labels,
+and locations must be maintained in all aspects of the layout in every project. An interface designer should provide the same look and feel for every layout in a group of systems. This provides familiarity across all the rooms and minimizes the learning curve required to operate a system.
+
+For example, at a single facility there may be a need for an AV system in several training rooms, boardrooms,
+videoconferencing rooms, and conference rooms. Meeting the criteria for each of these rooms requires a uniquely designed AV system and user interface. Yet it is possible to have a consistent appearance and layout for all the user
+interfaces within the facility.
+
+To this end, the designer must make the layout on all touchpanels consistent page to page and interface to interface.
+For example, a DVD player and a Blu-ray player have similar controls, so the common controls should be arranged
+similarly for both players. Furthermore, no matter where the user travels in the facility, the DVD and Blu-ray control
+pages are familiar if they have the exact same appearance and layout.
+
+Affordance
+
+Affordance is the quality of an object that provides a user with the visual cue
+to perform an action. The user should naturally perceive how to interact with
+touchpanel objects and quickly determine:
+• What can be pressed
+• What areas need input
+• What areas provide feedback
+
+A common mistake is to create an interface that mimics web page design.
+On web pages it is obvious that certain words or graphics can be clicked. As
+the mouse pointer rolls or hovers over the word or graphic, the appearance of
+both the graphic and the mouse pointer changes (see Figure 1). Touchpanel
+interfaces do not have this hover function, so objects that are intended to be
+pressed should look like they can be.
+
+Icons should be used in the layout design, but NOT as buttons. The visual
+characteristics of an icon are not naturally perceived as though they can be
+pressed. Placing an icon on a button gives the user confidence that the
+object can be pressed.
+
+False Affordance
+
+False affordance is just the opposite of affordance. False affordance is when
+the visual characteristics of an object intuitively imply the wrong functionality
+and use. An example of this is when a designer uses characteristics to make
+a button look like it can be pressed and then applies same characteristics to
+a header or a text window. If an object is not intended to be pressed, never
+make it look like a button (see page 20, “Button Affordance”).
+
+Information Mapping
+
+Information mapping is a method of breaking large amounts of information into small, manageable, and relevant
+chunks. Also known as “chunking”, information mapping reduces the cognitive load on the user and the amount of
+time it takes to find a control when visually scanning a touchpanel interface. The rule of thumb is to break every part of the interface into chunks, where each chunk has no more than nine parts.
+The Extron standard screen layout applies this rule by dividing the screen into seven separate groups of control and
+feedback areas. Each of the standard control areas either has a specific function or is a logical group of common
+controls.
+
+Extron Standard Control Locations
+
+Touchpanel user interfaces must be designed using consistent, logical, and predictable layouts. Extron has created
+a standard screen layout that divides the touchpanel into seven logical and easily understood sections that consist
+of feedback areas and groups of controls. The philosophy behind this standard layout is to create an interface that
+someone can quickly become familiar with and feel comfortable using. The seven sections comprise of two basic
+area types: static areas (6) and dynamic areas (1).
+
+Static Areas
+
+Static areas of a user interface have pre-assigned conditions that do not change during the navigation of the interface or the execution of an action. These static areas include AV source selection, environmental control, and specific status messages. Those particular elements are the most likely to remain present and visible, never changing inappearance or location.
+
+A consistent approach in a static area enables a user to always know exactly where an environmental control or an
+AV source is on every touchpanel page. Reassurance is found in knowing that the type of controls found in the static
+areas do not move or disappear during operation. Moving common controls, such as volume, to a different location
+on the screen or removing it altogether may lead to confusion.
+
+The following illustration and table show the Extron standards for the chunking and placement of static areas.
+
+Dynamic Areas
+
+Dynamic areas are reserved for content that varies based on the mode of the control or the conditions of the selected
+operation. Within dynamic areas, as with static areas, consistency must be maintained. A user should be able to
+anticipate the types of controls that appear in this region.
+The controls for a selected source device would be available within a dynamic area of the touchpanel. When a
+different AV source is selected, the controls inside the dynamic area change to accommodate the new AV source.
+Be sure to place controls for different devices in a similar pattern. Grouping of the same button types, spacing, and
+colors, allows the user to easily recognize and manage the features for each device similarly. The following figure
+shows the Extron standards for the layout of the dynamic area.
+
+Side Buttons
+
+On smaller devices where touchscreen spacing is limited, external buttons should be used to relocate some of the
+functions normally placed on the touchscreen. Moving common controls from the static area of the touchscreen to a
+static, external button arrangement increases the dynamic area available on the touchscreen.
+For instance, the Extron TLP Pro 320M has eight backlit side buttons to the right of the touchscreen surface. Extron
+chose to allocate specific common static functions to the physical side buttons, where they are grouped for easy
+access. Controls for display on/off, source selection, and muting were appropriate functions to relocate since they do
+not disrupt navigation.
+
+Navigation Principles
+
+A well designed interface is one that allows a user to recognize the context of available controls at a glance. It
+should be inviting and instill a high level of confidence in the system. The user should never have to press more than
+3 buttons to perform a desired function. With this in mind, an interface designer must understand the navigation
+principles and apply them appropriately.
+
+Clear Entry Points
+
+User interface navigation should always start with clear entry points. A clear entry point can be something as simple as a welcome page with a company or university logo and a single button that says “Press Here to Begin.” The options should be what the user expects from the system. For example, the designermay offer the option to choose either Video Conference Presentation from the welcome page. Once the selection is made, the main page is displayed with the selected mode of operation.
+
+Aesthetics and Functionality
+An AV system is only effective if the touchpanel interface is inviting and encourages the user to interact with it. An
+attractive and aesthetically pleasing layout is more likely to be used. The successful touchpanel’s appearance and
+usability are products of the intelligent use of colors, shapes, and space, all working together.
+
+There has to be some balance between style and function, and yet the interface must be attractive and inviting.
+The screen should have a clean appearance, with each section distinctly separated and controls clearly labeled.
+Source buttons should be distinguishable not only by location, but also by button shape, size, color, text, and icons.
+Additionally, a user should be able to quickly see the difference between labels and buttons.
+
+Use visual cues to convey information. An icon near text reinforces the functionality of a button. In each TouchLink®
+Pro resource kit, Extron provides several buttons with icons (such as the Blu-ray buttons shown here) and button
+labels for use in design layouts.
+
+Contextual icons help to locate the relevant button more quickly, especially when using a familiar image. Icons should
+be descriptive and follow the theme used in the rest of the design.
+
+Color Considerations
+Selecting a color scheme or color palette is a core part of creating an appealing touchpanel user interface. Some
+color combinations are aesthetically pleasing while others are distracting and complicate the user experience.
+Knowing how colors mix and their relationships helps the designer choose compatible colors for a user interface
+design.
+
+Color Basics
+Subtractive Color
+Subtractive color starts with light (white). The primary subtractive colors are cyan, magenta, and yellow (CMY).
+In documents, such as this one, color printing is done using a combination of cyan, magenta, and yellow. Using
+different amounts of these three inks with black produces a wide range of colors. This is referred to as the CMYK print process with the “K” representing black.
+
+NOTE: Because subtractive color has different primary colors than additive, the images in this book are not exact representations of how these images appear on a screen.
+
+Additive Color
+Based on light, additive color starts with black, or the absence of light, such as the black screen on monitors or
+touchpanels. As dispersed wavelengths of light are added to the black, a wide range of colors is created. Sunlight is pure light that travels in many wavelengths. When this light is dispersed,as through a prism, the wavelengths form the complete spectrum. The wavelengths of these range from 400 nanometers for violet through 700 nanometers for red.
+
+The primary additive colors are red, green, and blue (RGB). These are the foundation for all the colors in the additive color spectrum.
+
+Subtractive color is used primarily in printing, while additive color is used in display technology.
+
+RGB Color Wheel
+
+An RGB color wheel is the color spectrum in a circle with the two ends connected,
+the red connecting with the violet. The color wheel is a visual aid that presents a
+logical arrangement of a sequence of pure hues. The RGB color wheel shows the
+relationship between colors in the visible spectrum.
+
+The twelve colors of the color wheel may be broken into three color groups:
+• Primary
+• Secondary
+• Tertiary
+
+
+
+Primary colors are red, green, and blue. From these all other colors may be derived.
+
+Primary Colors
+They are monochromatic: they consist of a single color or hue. Primary colors cannot be produced
+by mixing other colors. The absence of red, green, and blue results in black, and the three colors
+combined result in white. The primary colors can be combined in prescribed amounts to create
+billions of colors.
+
+Secondary Colors
+Secondary colors are created by mixing two primary colors. For
+example, combining the primary colors green and red produces the
+secondary color, yellow.
+
+Tertiary Colors
+Tertiary colors complete the color wheel. A tertiary color is the resulting color formed when an
+equal amount of a primary and a secondary color are mixed. The primary and secondary color
+must be beside each other on the color wheel. For example, a mixture of 50-percent red (primary)
+and 50-percent yellow (secondary) would result in the tertiary color of orange. The newly formed
+tertiary color (orange) lies between the red and yellow on the color wheel.
+
+Complementary Colors
+Complementary or contrasting colors are those on exactly opposite sides of the color wheel. Combining two complementary RGB colors creates white. Selecting a contrasting color makes colors, such as yellow on a blue background, stand out more vibrantly. The opposite is true for text. Complementary colors do not work well with text.
+
+Analogous Colors
+Analogous colors are next to each other on the color wheel and are closely related. For example, the two analogous colors for light blue are cyan and blue. Analogous colors contribute to a harmonious color scheme. Where these colors meet, they blend
+seamlessly.
+
+Split Complementary Colors
+Split complementary colors are made up of two or three colors. They sit on either side of the
+complementary color of any selected color on a color wheel. For example, the complementary
+color for yellow is blue, so the split complementary colors are the colors on both sides of blue,
+and either or both colors may be used with the yellow.
+
+Split complementary colors are more subdued than complementary colors. When using these colors,
+it is important to consider that certain color combinations are not easy to distinguish by people who
+have color vision deficiencies (see the Monochrome Testing section on page 18 for details).
+
+Warm Colors
+Warm colors are made up of red hues. For example, red, orange, and yellow are warm colors.
+Warm colors are vivid, appear to advance in space, and can overwhelm the content. However, if
+something is meant to stand out, use warm colors. For example, the System Off button on a GUI
+screen could be red making it easy to locate on the page.
+
+Cool Colors
+Cool colors are made up of blue hues. For example, blue, cyan, and green are cool colors.
+Cool colors appear to recede in space and serve well as background colors. These are calming
+colors and do not overpower content.
+
+Hue, Saturation, and Brightness
+All colors can be represented by their red, green, and blue (RGB) color values, as well as their hue, saturation, and
+brightness (HSB) values. The HSB model is a versatile color representation method commonly used by graphic
+designers because it is easier to pick a color and modify its shading with the HSB method than it is with the RGB
+method. HSB is based on the principle that each pure color is mixed with values of white and black to create various
+shades of the pure color. RGB and HSB values are simply two different ways to describe a specific color.
+
+Hue
+Hues are the colors represented from the color wheel. A hue is a color that is pure and is represented in degrees:
+where 0° is at the top of the color wheel representing red.
+Zero to 359 degrees represent all the colors hues of the color wheel.
+
+Saturation
+Saturation (or chroma) refers to how pure the color is. Highly saturated colors (for example, primary colors) look rich and full, and colors with low saturation look dull and grayish. A fully (100%) saturated color is the truest version of that color. Its saturation value decreases as chroma is removed, eventually leaving only the luminance (colorless cell) when the saturation value is 0%.
+
+Brightness
+Brightness (or luminance) is the measure of intensity of a hue. When the color is 100% pure, its brightness value is
+100%. As the brightness value decreases to 0%, the intensity lowers until the color becomes completely black. If both
+saturation (chroma) and brightness (luminance) are 0%, then the result is black.
+
+Transparency
+Transparency quantifies the extent to which a foreground color allows visibility of background colors and images. It is the opposite of opacity.
+
+Opacity is the level of visual solidity, the depth or amount of a color within the pixels of an object such as a button or text box. Reducing opacity in the pixels of a foreground object allows a background object (a logo, for example) to become visible through the foreground object. Increasing opacity blocks out the view of the background. The greaterthe transparency, the lower the opacity.
+
+Transparency and opacity are usually represented in percentages (0-100%) where:
+• 0% transparency (100% opacity) indicates a solid, opaque foreground with no transparency
+• 100% transparency (0% opacity) indicates full transparency, where the foreground object has no color
+
+Hexadecimal Codes
+The RGB color value can be identified using a unique 6-character hexadecimal code.
+This hexadecimal code can be entered directly into the color specifying window of a graphics program making it easy
+to share a color value from one program to another by doing a copy and paste operation.
+
+Choosing a Color Palette
+A color palette is a collection of colors. A palette of harmonious colors should be selected before beginning any
+GUI design. Creating a cohesive color palette is second nature to all good graphic designers, but for many it can be
+challenging. Although the definition of an appealing color palette is highly subjective, here are some safe steps for theinterface designer to follow.
+
+1. Pick a base color.
+A base color is the starting point for the color palette. The base color may be the dominant color of a corporation or
+school logo, or could be a color from the room that the touchpanel will be used in, or a specific color selected by the client.
+
+2. 2. Select a background color.
+The background color should be calming and muted.
+• If the base color is warm: choose a gray or a color with low brightness and saturation values for the background.
+• If the base color is cool: use a gray or a cooler, analogous color with a very low saturation value.
+
+3. Select a shape (see “Shapes” on page 31) color.
+Shapes can be made using an color that is analogous to the base color yet maintains a good contrast against the
+background color. In some cases, a color that is not analogous to the base color but subtly contrasts against the
+background may work better for the shape color.
+
+Avoid saturated colors for shapes, especially warm ones. Shapes should recede into the background. Choosing
+the base color as the border color around shapes is an effective way to tie the base color into your design. This is
+especially helpful with warm colors that can otherwise be overwhelming.
+
+4. Choose button colors.
+Off-state buttons should contrast with the surface they are on.
+• If the surface is dark, use a lighter color or one with lower saturation.
+• If the surface is light, use a darker color or one with higher saturation.
+On-state buttons should have an illuminated effect. In general their color should be brighter and less saturated than
+the off-state button
+
+Five safe rules for color selection:
+1. Never use more than six colors on a project.
+2. Use grays, or colors having low brightness and saturation values for backgrounds.
+3. Use complementary colors to draw attention to text or to buttons that must stand out.
+4. Avoid using too many saturated colors.
+5. Always maintain good contrast between elements.
+There are several web-based color palette creation tools available that help simplify the color palette creation process.
+
+See the resource section at the end of this guide for a list of color palette tools that can be found online.
+
+Monochrome Testing
+Monochrome testing in grayscale is a good way to validate the readability of a user interface design by those who are
+color blind or color deficient. Color blindness is a color deficiency where a person experiences difficulty distinguishing between colors. A red-green deficiency is most common, although some individuals might have difficulty seeing the difference between blue and yellow. Only a limited number of people who are color blind see in black and white.
+
+Monochrome testing strips away the chrominance from the design. When the chrominance is removed, it reveals the
+areas where the difference in luminance, or grayscale, is hard to perceive. If the layout is difficult to read in grayscale, then it may be unusable by a person who is color blind.

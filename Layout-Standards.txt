@@ -1,0 +1,11 @@
+Layout Standards
+
+Device Control Standards
+Graphical user interface device control consistency is of the utmost importance. As an example, the play button for
+the DVD transport controls page should be in the exact same place with the same exact orientation as the play button
+for the DVR. Users must be able to quickly identify a button and its capabilities without relearning the function for each
+new device control encountered.
+
+Extron has developed the following standards for environmental and device control layouts: they are applied to all of
+our templates. We believe if these unified standards were implemented by the AV industry, the resulting consistency
+would make touchpanel control less intimidating to the user.

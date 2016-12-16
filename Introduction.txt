@@ -1,0 +1,36 @@
+Introduction
+
+The control system touchpanel interface is perhaps the most highly visible component of an installed AV system, and
+may be the only AV hardware with which a user has direct interaction. The quality of the entire AV system is often
+judged by the experience the user has with the touchpanel.
+
+Quality user interfaces balance style and function, with the emphasis on function, though aesthetics are important.
+A layout that is familiar and pleasing to the eye is more likely to be used. An interface must meet the needs of the
+user and function the way they expect. Operating a poorly or overly designed interface can be intimidating and
+overwhelming, so eliminating confusion is the key element to a successful design.
+
+With limitless color options, graphics, and logos available to the designer, a touchpanel interface can be infinitely
+customized. The challenge for the designer is not to be overly creative, but to design a professional looking interface
+that is easy to navigate. Fortunately, there are a number of concepts that allow designers to make educated choices
+when creating an interface that is both functional and attractive.
+
+This guide defines and explains those fundamental concepts within the context of AV control systems. The aim is to
+enable touchpanel layout designers to choose with confidence the right tools and methods necessary to create an
+intuitive interface that gives the user a positive experience.
+
+The Extron Graphical User Interface Design Guide contains three main chapters:
+1. Layout Principles
+This chapter teaches the theories of consistency, navigation, screen layout, affordance, and color selection. A solid
+understanding of these theoretical building blocks is essential for touchpanel interface designers.
+
+2. Design Fundamentals
+This chapter teaches the designer how to apply the layout principles when creating different aspects of user
+interfaces, such as pages, buttons, text, fonts and images.
+
+3. Layout Standards
+This chapter shows the Extron standards for design consistency. The theory behind this chapter is to create a
+baseline for consistent layouts to be used when designing interfaces for environmental controls and other common
+AV devices.
+
+NOTE: This document relies heavily on the use of color images to emphasize its content. To see the colors and the touchpanel details as they
+were originally intended, it is strongly recommended that you view and use this document on-screen in its PDF format.

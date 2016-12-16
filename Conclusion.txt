@@ -1,0 +1,39 @@
+Conclusion
+
+This guide was written to enable interface designers to create intuitive, functional, and well-designed graphical user
+interfaces for touchpanels for AV control systems.
+
+Within this guide are the design fundamentals and considerations that are essential to a successful user interface
+design for every AV system control application.
+
+Summary of the key concepts:
+
+Consistency — Maintaining consistency (using fonts, shapes, placement, sizes, and colors) in the interface allows
+the easy recognition and location of each component of the system.
+
+Affordance awareness — Affordance is the visual cue to the function of an object. If an image is intended to be a
+button that can be pushed, make it look like one. If it is not, then avoid making it look like one (false affordance).
+
+Static and dynamic areas — Logical use of static (unchanging) and dynamic (variable content) areas provides
+constant access to commonly-used functions, and the ability to use controls specific to a selectable source or
+operation.
+
+Navigation and pages — Start with clear entry points. Use uncomplicated navigation to get the user to where they
+want to be without leaving the main page and without introducing page flips. Use pop-up and modal pop-up pages
+wisely but sparingly.
+
+Button design — Button size and shape, aspect ratio and orientation, spacing and chunking, labels and icons, are all
+important when creating controls for the interface. Giving visual feedback when performing the necessary actions also
+enhances the user experience.
+
+Clutter and color — Avoid clutter. Too many options on a page are a distraction. Keep it as simple as possible.
+Use colors that “work”; start with analogous, harmonious colors and avoid using clashing colors (red and green for
+example). Be mindful of users who may have visual impairments.
+Text and font styles — Never use serif fonts or italic styles, and avoid text effects (for example embossing,
+underlines, outlines).
+
+Backgrounds — Avoid backgrounds that visually compete with buttons or labels. Use solid, cool or neutral colors, or
+muted textures or images.
+
+Customer focus — Be mindful of the needs and expectations of the end user. Provide a well-conceived,
+recognizable layout that presents the user with everything necessary and easily accessible to operate the AV system.
