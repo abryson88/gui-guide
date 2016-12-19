@@ -1,0 +1,7 @@
+This document intends to illustrate the best practices of user interface design within the scope of the A/V industry. It reflects the behaviors of the majority of our customers - and is not an all inclusive guide. Applications within the A/V industry often requires a very tailored configuration, and this should be taken into account when determining the best approach for an effective interface as well. Special care must be taken during the research and specification phase if designing an interface intended for highly specialized users or advanced configurations. When is doubt, the best approach is to ask for clarity and test your users. 
+
+Insights within this guide are based on roughly 80% of the typical end-user behavior and scenarios encountered in the field. This guide is not all inclusive. Some recommendations may not apply to incredibly specialized users or configurations. Applying a user centered design process will always achieve best results. 
+
+The GUI developer has a foundational understanding of Extron GUI Designer software its relation to GUI Configurator and Global Scripter. Refer to Extron's "TouchLink Touchpanel Configuration Best Practices" document for an overview of how these software packages work together.  
+
+System requirements for a project will have already been established and the GUI developer has access to these documents. 
